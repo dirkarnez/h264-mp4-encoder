@@ -6,6 +6,9 @@
 ### Tutorials
 - [H264、H265、H266、AV1编码标准技术全面总结-CSDN博客](https://yx-codec-conductor.blog.csdn.net/article/details/143991825)
 
+### TODOs
+- [ ] Animation generation with gsap
+
 ### Snippets
 - Headless mp4 generation (no canvas)
 ```js
@@ -42,4 +45,5 @@
     encoder.delete();
   })
 ```
+
 
